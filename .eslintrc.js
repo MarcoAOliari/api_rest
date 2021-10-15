@@ -13,5 +13,8 @@ module.exports = {
   rules: {
     'no-console': 'off',
     'class-methods-use-this': 'off',
+    'import/first': 'off',
+    'import/extensions': 'off',
+    'import/prefer-default-export': 'off',
   },
 };
